@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: skyblue;
+    margin: 0;
+    padding: 0;
+  }
+
+  .course-container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: silver;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+
+  h1, h2, p {
+    color:black;
+  }
+
+  .course-description {
+    margin-top: 20px;
+  }

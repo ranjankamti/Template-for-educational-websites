@@ -1,0 +1,47 @@
+
+
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color:skyblue;
+        margin: 0;
+        padding: 0;
+      }
+  
+      .contact-container {
+        max-width: 600px;
+        margin: 50px auto;
+        background-color:navajowhite;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+      }
+  
+      h1, h2 {
+        color: #333;
+      }
+  
+      p {
+        color: #555;
+      }
+  
+      .contact-info {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-top: 20px;
+
+      }
+  
+      .contact-info img {
+        border-radius: 50%;
+        max-width: 150px;
+        margin-bottom: 10px;
+      }
+  
+      .contact-info p {
+        margin: 8px 0;
+      }
+    section{
+      text-decoration-color: black;
+    }
